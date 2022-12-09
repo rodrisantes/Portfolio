@@ -29,17 +29,7 @@ function Projects() {
               ghLink="https://github.com/GermanEH/Proyecto-Final-Pro-FY"
             />
           </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={ejercicios}
-              isBlog={false}
-              title="Fit-Focus"
-              description="A web application to generate personalized exercise routines depending on your physical build and your age."
-              ghLink="https://github.com/Final-Project-Henry/Fit-Focus"
-            />
-          </Col>
-        </Row>
+          </Row>
       </Container>
     </Container>
   );
