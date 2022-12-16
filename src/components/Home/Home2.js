@@ -17,8 +17,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I fell in love with programming while I was studing and since then I've never stopped coding
               <br />
               <br />I am fluent in classics like
               <i>
@@ -26,7 +25,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My fields of Interest are building new &nbsp;
               <i>
                 <b className="purple">Web Technologies and Products </b> and
                 also learning new {" "}
